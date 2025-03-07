@@ -1,0 +1,1 @@
+Atividade nível novato para o curso de ADS que se resumia a criação de um código simples do jogo Super Trunfo, o desafio era o desenvolvimento de um código em C que recolhesse informações de duas cartas e apresentasse as mesmas ao final do preenchimento.
